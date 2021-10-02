@@ -336,7 +336,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 .counter-section {
-  background: url('/img/bg-1.JPG');
+  background: url(../img/bg-1.jpg);
   overflow: hidden;
   position: relative;
 }
@@ -709,7 +709,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 3. Hero Area
 ========================================================================== */
 .hero-area-bg {
-  background: url(/img/hero-area1.jpg) no-repeat;
+  background: url(../img/hero-area.jpg) no-repeat;
   background-size: cover;
 }
 
